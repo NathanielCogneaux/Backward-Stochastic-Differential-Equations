@@ -4,5 +4,11 @@ Seminar : Backward Stochastic Differential Equations
 
 refs :
 
-(Probability theory and stochastic modelling 86) Zhang, Jianfeng - Backward stochastic differential equations _ from linear to fully nonlinear theory-Springer (2017)
-Pham (2009). Continuous-time Stochastic Control and Optimization with Financial Applications
+• Zhang, Jianfeng (2017). Backward stochastic differential equations. Probability theory and stochastic modeling. Springer New York, NY.
+
+• N. El Karoui, L. Mazliak (1997). Backward stochastic differential equations. Chapman and Hall/CRC Research Notes in Mathematics Series. Paris.
+
+• Pham (2009). Continuous-time Stochastic Control and Optimization with Financial Applications
+
+
+
